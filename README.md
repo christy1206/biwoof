@@ -6,12 +6,13 @@ Promising performance had been achieved when evaluated on CASME II and SMIC data
 
 Example of micro-expressions:
 
-<img src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" data-canonical-src="https://drive.google.com/uc?export=view&id=1IOj1fh9hSHETGh6VzM7PljoPOj1Z3zWK" width="200" height="200"  />  <img src="https://drive.google.com/uc?export=view&id=1PeW7wNzA-plqs7juD43XkSJDeXm9LRXv" data-canonical-src="https://drive.google.com/uc?export=view&id=1PeW7wNzA-plqs7juD43XkSJDeXm9LRXv" width="200" height="200"  />  <img src="https://drive.google.com/uc?export=view&id=1iXtn2dULrD5blNONdFdop8T84Ibqp4yN" data-canonical-src="https://drive.google.com/uc?export=view&id=1iXtn2dULrD5blNONdFdop8T84Ibqp4yN" width="200" height="200"  />  
+<img src="https://github.com/christy1206/biwoof/blob/pictures/006_006_1_2.gif" width="200" height="200"/> <img src="https://github.com/christy1206/biwoof/blob/pictures/s03_s03_po_11.gif" width="200" height="200"/> <img src="https://github.com/christy1206/biwoof/blob/pictures/sub11_EP15_04f.gif" width="200" height="200"/>
+
 SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
 Flowchart
 
-<img src="https://github.com/christy1206/biwoof/blob/pictures/flow.JPG" width="500" height="200"/>
+<img src="https://github.com/christy1206/biwoof/blob/pictures/flow.JPG" width="600" height="300"/>
 
 <img src="https://github.com/christy1206/biwoof/blob/pictures/biwoof.JPG" width="500" height="200"/>
 

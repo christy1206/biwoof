@@ -12,7 +12,7 @@ SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
 Flowchart
 
-<img src="https://github.com/christy1206/biwoof/blob/pictures/flow.JPG" width="600" height="300"/>
+<img src="https://github.com/christy1206/biwoof/blob/pictures/flow.JPG" width="600" height="250"/>
 
 <img src="https://github.com/christy1206/biwoof/blob/pictures/biwoof.JPG" width="500" height="200"/>
 
@@ -27,7 +27,7 @@ Recognition results
 <img src="https://github.com/christy1206/biwoof/blob/pictures/result.JPG" width="800" height="400"/>
 
 
-If you use theis method in your research, please cite:
+If you use this method in your research, please cite:
 
 @article{liong2018less,\
   title={Less is more: Micro-expression recognition from video using apex frame},\

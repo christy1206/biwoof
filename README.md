@@ -24,15 +24,15 @@ The recognition algorithm contains three main steps:
 ###### Citation
 If you use theis method in your research, please cite:
 
-@article{liong2018less,
-  title={Less is more: Micro-expression recognition from video using apex frame},
-  author={Liong, Sze-Teng and See, John and Wong, KokSheik and Phan, Raphael C-W},
-  journal={Signal Processing: Image Communication},
-  volume={62},
-  pages={82--92},
-  year={2018},
-  publisher={Elsevier}
-}
+@article{liong2018less,\
+  title={Less is more: Micro-expression recognition from video using apex frame},\
+  author={Liong, Sze-Teng and See, John and Wong, KokSheik and Phan, Raphael C-W},\
+  journal={Signal Processing: Image Communication},\
+  volume={62},\
+  pages={82--92},\
+  year={2018},\
+  publisher={Elsevier}\
+}\
 
 ###### Suggestions
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw

@@ -1,6 +1,8 @@
 # Bi-Weighted Oriented Optical Flow (Bi-WOOF)
 
-The first attempt to utilize onset and apex frames from the micro-expression video sequence to perform the emotion recognition on CASME II and SMIC databases. 
+The first attempt is proposed to encode essential expressiveness of the apex frame.
+It utilizes two frames (i.e., onset and apex frames) from the micro-expression video sequence to perform the emotion recognition.
+Promising performance had been achieved when evaluated on CASME II and SMIC databases. 
 
 Example of micro-expressions:
 
@@ -15,12 +17,21 @@ The recognition algorithm contains three main steps:
 
 The recognition results achieved are:
 
-<img src="https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view" data-canonical-src="https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view" width="600" height="150"/>
-
-
 <img src="https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view?usp=sharing" width="600" height="150"/>
 
+# Citation
+If you use theis method in your research, please cite:
 
-Liong, S. T., See, J., Wong, K., & Phan, R. C. W. (2018). Less is more: Micro-expression recognition from video using apex frame. Signal Processing: Image Communication, 62, 82-92.
+@article{liong2018less,
+  title={Less is more: Micro-expression recognition from video using apex frame},
+  author={Liong, Sze-Teng and See, John and Wong, KokSheik and Phan, Raphael C-W},
+  journal={Signal Processing: Image Communication},
+  volume={62},
+  pages={82--92},
+  year={2018},
+  publisher={Elsevier}
+}
 
-Bi-Weighted Oriented Optical Flow (Bi-WOOF) is proposed to encode essential expressiveness of the apex frame.
+# Suggestions
+If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
+Thank you for your interest and support.

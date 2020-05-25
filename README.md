@@ -11,6 +11,10 @@ SAMM (006_006_1_2), SMIC (s03_s03_po_11), CASME II (sub11_EP15_04f)
 
 Flowchart
 
+<img src="https://github.com/christy1206/biwoof/blob/pictures/flow.JPG" width="500" height="200"/>
+
+<img src="https://github.com/christy1206/biwoof/blob/pictures/biwoof.JPG" width="500" height="200"/>
+
 The recognition algorithm contains three main steps: 
 (1) The horizontal and vertical optical flow vectors between the apex and neutral frames are estimated; 
 (2) The orientation, magnitude and optical strain of each pixel’s location are computed from the respective two optical flow components; 
@@ -22,6 +26,7 @@ Recognition results
 <img src="https://github.com/christy1206/biwoof/blob/pictures/result.JPG" width="800" height="400"/>
 
 Citation
+
 If you use theis method in your research, please cite:
 
 @article{liong2018less,\

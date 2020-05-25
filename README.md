@@ -26,7 +26,6 @@ Recognition results
 
 <img src="https://github.com/christy1206/biwoof/blob/pictures/result.JPG" width="800" height="400"/>
 
-Citation
 
 If you use theis method in your research, please cite:
 
@@ -40,7 +39,6 @@ If you use theis method in your research, please cite:
   publisher={Elsevier}\
 }
 
-Suggestions
 If you have suggestions or questions regarding this method, please reach out to stliong@fcu.edu.tw
 
 Thank you for your interest and support.

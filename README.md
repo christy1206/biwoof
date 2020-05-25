@@ -15,6 +15,8 @@ The recognition algorithm contains three main steps:
 
 The recognition results achieved are:
 
+![result](https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view?usp=sharing)
+
 <img src="https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view?usp=sharing" width="600" height="150"/>
 
 

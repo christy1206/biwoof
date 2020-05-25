@@ -17,7 +17,7 @@ The recognition algorithm contains three main steps:
 
 The recognition results achieved are:
 
-<img src="https://drive.google.com/file/d/1orkNPTmFOyblClPQyIWukJ8AbJJYasry/view?usp=sharing" width="600" height="150"/>
+<img src="https://github.com/christy1206/biwoof/blob/pictures/result.JPG" width="600" height="150"/>
 
 # Citation
 If you use theis method in your research, please cite:

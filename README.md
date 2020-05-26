@@ -1,6 +1,6 @@
 # Bi-Weighted Oriented Optical Flow (Bi-WOOF)
 
-The first attempt is proposed to encode essential expressiveness of the apex frame.
+The first attempt to encode essential expressiveness of the subtle micro-expressions using an apex-based technique.
 It utilizes two frames (i.e., onset and apex frames) from the micro-expression video sequence to perform the emotion recognition.
 Promising performance had been achieved when evaluated on CASME II and SMIC databases. 
 

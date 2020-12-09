@@ -21,6 +21,7 @@ The recognition algorithm contains three main steps:
 (2) The orientation, magnitude and optical strain of each pixel’s location are computed from the respective two optical flow components; 
 (3) A Bi-WOOF histogram is formed based on the orientation, with magnitude locally weighted and optical strain globally weighted.
 
+*Please find the source code for optical flow adopted in this experiment at http://www.ipol.im/pub/art/2013/26/
 
 Recognition results
 
